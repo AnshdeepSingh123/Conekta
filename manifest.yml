@@ -1,0 +1,6 @@
+applications:
+- name: Favourite-Music
+path: target/FavouriteMusic-0.0.1-SNAPSHOT.war
+domain: cfapps.io
+memory: 950M
+instances: 1
